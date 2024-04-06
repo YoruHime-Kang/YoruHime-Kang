@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YoruHime-Kang
+- 👋 Hi, I’m Pearlyn aka @YoruHime-Kang
 - 👀 I’m interested in ... RPA!
 - 🌱 I’m currently learning ... Python!
 - 📫 How to reach me ... My Linkedin Profile = https://www.linkedin.com/in/pearlynkang/
